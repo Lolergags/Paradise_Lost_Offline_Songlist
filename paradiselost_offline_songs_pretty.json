@@ -22500,6 +22500,99 @@
     ]
   },
   {
+    "id": 936,
+    "chunirec_id": "6051d208965e754b",
+    "title": "迷える薔薇に終わらぬ夜を",
+    "aliases": [
+      "MAYOERU BARA NI OWARANU YORUWO"
+    ],
+    "artist": "YM feat.かんせる",
+    "genre": "ORIGINAL",
+    "release_date": "2020-08-06",
+    "version": "CRYSTAL PLUS",
+    "jacket_url": "https://chunithm-net-eng.com/mobile/img/a42904a6891a815d.jpg",
+    "duration": 156521,
+    "bpm": {
+      "min": 230,
+      "max": 230,
+      "mode": 230
+    },
+    "availability": {
+      "intl": true,
+      "jp": true
+    },
+    "charts": [
+      {
+        "difficulty": "BAS",
+        "level": "3",
+        "const": 3.0,
+        "charter": "écologie",
+        "version": null,
+        "sdvxin_url": null,
+        "available": true,
+        "notecounts": {
+          "total": 645,
+          "tap": 276,
+          "hold": 173,
+          "slide": 116,
+          "air": 80,
+          "flick": 0
+        }
+      },
+      {
+        "difficulty": "ADV",
+        "level": "6",
+        "const": 6.0,
+        "charter": "ロシアンブラック",
+        "version": null,
+        "sdvxin_url": null,
+        "available": true,
+        "notecounts": {
+          "total": 938,
+          "tap": 505,
+          "hold": 91,
+          "slide": 180,
+          "air": 162,
+          "flick": 0
+        }
+      },
+      {
+        "difficulty": "EXP",
+        "level": "10",
+        "const": 10.4,
+        "charter": "じゃこレモン",
+        "version": null,
+        "sdvxin_url": "https://sdvx.in/chunithm/05/05123exp.htm",
+        "available": true,
+        "notecounts": {
+          "total": 1459,
+          "tap": 732,
+          "hold": 198,
+          "slide": 269,
+          "air": 260,
+          "flick": 0
+        }
+      },
+      {
+        "difficulty": "MAS",
+        "level": "12+",
+        "const": 12.8,
+        "charter": "アミノハバキリ",
+        "version": null,
+        "sdvxin_url": "https://sdvx.in/chunithm/05/05123mst.htm",
+        "available": true,
+        "notecounts": {
+          "total": 1620,
+          "tap": 962,
+          "hold": 38,
+          "slide": 241,
+          "air": 311,
+          "flick": 68
+        }
+      }
+    ]
+  },
+  {
     "id": 937,
     "chunirec_id": "7f0819adad24cd50",
     "title": "パームカルマ",
@@ -25103,101 +25196,6 @@
           "slide": 221,
           "air": 504,
           "flick": 138
-        }
-      }
-    ]
-  },
-  {
-    "id": 1086,
-    "chunirec_id": "65fc5dc3349c6d00",
-    "title": "祈 -我ら神祖と共に歩む者なり-",
-    "aliases": [
-      "Inori",
-      "Prayer",
-      "Inori -Warera Shinso to Tomoni Ayumu Mononari-"
-    ],
-    "artist": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
-    "genre": "ORIGINAL",
-    "release_date": "2021-09-30",
-    "version": "PARADISE LOST",
-    "jacket_url": "https://chunithm-net-eng.com/mobile/img/aee87c06a25809db.jpg",
-    "duration": 177929,
-    "bpm": {
-      "min": 152,
-      "max": 219,
-      "mode": 219
-    },
-    "availability": {
-      "intl": true,
-      "jp": true
-    },
-    "charts": [
-      {
-        "difficulty": "BAS",
-        "level": "6",
-        "const": 6.0,
-        "charter": "アミノハバキリ",
-        "version": null,
-        "sdvxin_url": null,
-        "available": true,
-        "notecounts": {
-          "total": 1000,
-          "tap": 441,
-          "hold": 150,
-          "slide": 254,
-          "air": 155,
-          "flick": 0
-        }
-      },
-      {
-        "difficulty": "ADV",
-        "level": "10",
-        "const": 10.0,
-        "charter": "ロシアンブラック",
-        "version": null,
-        "sdvxin_url": "https://sdvx.in/chunithm/06/06129adv.htm",
-        "available": true,
-        "notecounts": {
-          "total": 2000,
-          "tap": 798,
-          "hold": 317,
-          "slide": 626,
-          "air": 259,
-          "flick": 0
-        }
-      },
-      {
-        "difficulty": "EXP",
-        "level": "14+",
-        "const": 14.5,
-        "charter": "Moon Strix",
-        "version": null,
-        "sdvxin_url": "https://sdvx.in/chunithm/06/06129exp.htm",
-        "available": true,
-        "notecounts": {
-          "total": 3333,
-          "tap": 1464,
-          "hold": 256,
-          "slide": 917,
-          "air": 696,
-          "flick": 0
-        }
-      },
-      {
-        "difficulty": "MAS",
-        "level": "15+",
-        "const": 15.7,
-        "charter": "譜面ボーイズからの祈り -Pray for \"JUSTICE\"-",
-        "version": null,
-        "sdvxin_url": "https://sdvx.in/chunithm/06/06129mst.htm",
-        "available": true,
-        "notecounts": {
-          "total": 4444,
-          "tap": 1916,
-          "hold": 432,
-          "slide": 829,
-          "air": 1131,
-          "flick": 136
         }
       }
     ]
